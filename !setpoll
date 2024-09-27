@@ -1,0 +1,19 @@
+{embed;
+{embedBuild;
+title:How to set a Poll!;
+description:Take your time, if you need help ping Bluntman8338;
+fields.name:Cmd Flags;
+fields.value:• `-t`/`--time`: How long before the poll expires, formatted as '1 day 2 hours 3 minutes and 4 seconds', '1d2h3m4s', or some other combination.
+ • `-e`/`--emojis`: The emojis to apply to the poll.
+ • `-d`/`--description`: The description of the poll.
+ • `-c`/`--colour`: The color of the poll (in HEX).
+ • `-a`/`--announce`: If specified, it will make an announcement. Requires the proper permissions.
+
+__**Example**__:
+```
+!poll This is a title -t 1d2h3m4s -e 👍👎 -d This is the description of the poll -c #E2B81A
+```
+;
+color:#E2B81A;
+thumbnail.url:https://gyazo.com/899533bd458468d93194036f97e04727.png;
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}

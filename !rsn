@@ -1,0 +1,12 @@
+{userSetNickname;{args};{userId}}
+
+{embed;
+{embedBuild;
+title:Nickname Change;
+description:
+Thank you {userNickname}, I have changed your Screen name to your In Game name.
+;
+
+color:#E2B81A;
+thumbnail.url:{userAvatar};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}
