@@ -1,0 +1,24 @@
+{embed;
+{buildembed;
+title: Help Menu;
+description:This Help Menu is based on your roles.....
+Cmds are only visible up to your highest role.
+
+ {if;{userHasRole;{roleId; @Owner }};__**Owner Cmds**__
+```
+announce, approval, say, setpoll
+```{newline};}{if;{userHasRole;{roleId; @Co-Owner }};__**Co Owners Cmds**__
+```
+announce, approval, say, setpoll
+```{newline};}{if;{userHasRole;{roleId; @Discord Liaison  }};__**Discord Liaison Cmds**__
+```
+announce, approval, say, setpoll
+```{newline};}{if;{userHasRole;{roleId; @50gp }};__**50gp Cmds**__
+```
+announcements, dink, fordink, midgame, osrs, rsn, settz, suggestion, times, wiki
+```;}
+;
+
+color:#E2B81A;
+thumbnail.url:{guildIcon};
+footer.icon_url:https://gyazo.com/eba1012515f77f8f231e1ecff813d27a.png;footer.text:{time;DD-MM-YYYY;;;;} @ {time;HH:mm;;;;} UTC }}
