@@ -1,0 +1,533 @@
+{//;Aberrant Spectres} 
+{if;{args};==;Aberrant spectres;
+# __**Aberrant spectre**__
+(Weight: 6): 
+
+> - Location: Slayer Tower, Catacombs of Kourend
+> - Bring nose peg or slayer helm
+> - Key drops: Herbs, Rune items, Dark totem pieces
+
+Aberrant Spectres can be found in the Slayer Tower and the Catacombs of Kourend. They have a strong magic-based attack, so protection with a nose peg or slayer helmet is required. They drop various herbs and dark totem pieces, making them useful for herb collection.;}
+
+{//;Aberrant Spectres} 
+{if;{capitalize;{args}};==;Aberrant Spectres;
+# __**Aberrant spectre**__
+(Weight: 6): 
+
+> - Location: Slayer Tower, Catacombs of Kourend
+> - Bring nose peg or slayer helm
+> - Key drops: Herbs, Rune items, Dark totem pieces
+
+Aberrant Spectres can be found in the Slayer Tower and the Catacombs of Kourend. They have a strong magic-based attack, so protection with a nose peg or slayer helmet is required. They drop various herbs and dark totem pieces, making them useful for herb collection.;}
+
+{//;Abyssal Demons} 
+{if;{capitalize;{args}};==;abyssal demons;
+# __**Abyssal demon**__
+(Weight: 9): 
+
+> - Location: Slayer Tower, Catacombs of Kourend
+> - Bring melee or magic gear
+> - Key drops: Abyssal whip, Rune items
+
+Abyssal Demons are located in the Slayer Tower and the Catacombs of Kourend. Known for their famous Abyssal Whip drop, they can be a very profitable task. They are weak to melee and magic attacks.;}
+
+{//;Abyssal Demons} 
+{if;{capitalize;{args}};==;Abyssal Demons;
+# __**Abyssal demon**__
+(Weight: 9): 
+
+> - Location: Slayer Tower, Catacombs of Kourend
+> - Bring melee or magic gear
+> - Key drops: Abyssal whip, Rune items
+
+Abyssal Demons are located in the Slayer Tower and the Catacombs of Kourend. Known for their famous Abyssal Whip drop, they can be a very profitable task. They are weak to melee and magic attacks.;}
+
+{//;Banshees} 
+{if;{capitalize;{args}};==;Banshees;
+# __**Banshee**__
+(Weight: 5): 
+
+> - Location: Slayer Tower, Stronghold Slayer Cave
+> - Bring earmuffs or slayer helm
+> - Key drops: Herbs, Mystic gloves
+
+Banshees are low-level slayer monsters found in the Slayer Tower and Stronghold Slayer Cave. They require earmuffs or a Slayer helmet for protection. They drop various herbs and mystic gloves, making them useful for herb collection.;}
+
+{//;Basilisks} 
+{if;{capitalize;{args}};==;Basilisks;
+# __**Basilisk**__
+(Weight: 5): 
+
+> - Location: Fremennik Slayer Dungeon
+> - Bring mirror shield
+> - Key drops: Rune items, Basilisk jaw
+
+Basilisks are found in the Fremennik Slayer Dungeon. A mirror shield is required to avoid being frozen by their gaze. They are known for dropping rune items and the basilisk jaw, used to create the Neitiznot Faceguard.;}
+
+{//;Black Demons} 
+{if;{capitalize;{args}};==;Black demons;
+# __**Black demon**__
+(Weight: 8): 
+
+> - Location: Taverley Dungeon, Catacombs of Kourend
+> - Bring melee or ranged gear
+> - Key drops: Rune items, Infernal ashes
+
+Black Demons are high hitpoint monsters that are weak to ranged and magic attacks. They can be found in various dungeons like Taverley and Catacombs of Kourend. Notable drops include infernal ashes and various rune items.;}
+
+{//;Black Demons} 
+{if;{capitalize;{args}};==;Black Demons;
+# __**Black demon**__
+(Weight: 8): 
+
+> - Location: Taverley Dungeon, Catacombs of Kourend
+> - Bring melee or ranged gear
+> - Key drops: Rune items, Infernal ashes
+
+Black Demons are high hitpoint monsters that are weak to ranged and magic attacks. They can be found in various dungeons like Taverley and Catacombs of Kourend. Notable drops include infernal ashes and various rune items.;}
+
+{//;Black Dragons} 
+{if;{capitalize;{args}};==;Black dragons;
+# __**Black dragon**__
+(Weight: 6): 
+
+> - Location: Taverley Dungeon, Catacombs of Kourend
+> - Bring anti-dragon shield
+> - Key drops: Dragon bones, Black dragonhide
+
+Black Dragons are powerful creatures located in Taverley Dungeon and the Catacombs of Kourend. They require an anti-dragon shield for protection against their dragonfire. They drop dragon bones and black dragonhide, making them a profitable task.;}
+
+{//;Black Dragons} 
+{if;{capitalize;{args}};==;Black Dragons;
+# __**Black dragon**__
+(Weight: 6): 
+
+> - Location: Taverley Dungeon, Catacombs of Kourend
+> - Bring anti-dragon shield
+> - Key drops: Dragon bones, Black dragonhide
+
+Black Dragons are powerful creatures located in Taverley Dungeon and the Catacombs of Kourend. They require an anti-dragon shield for protection against their dragonfire. They drop dragon bones and black dragonhide, making them a profitable task.;}
+
+
+{//;Bloodvelds} 
+{if;{capitalize;{args}};==;Bloodvelds;
+# __**Bloodveld**__
+(Weight: 4): 
+
+> - Location: Slayer Tower, Catacombs of Kourend
+> - Bring melee or magic gear
+> - Key drops: Blood runes, Rune items
+
+Bloodvelds are commonly found in the Slayer Tower and Catacombs of Kourend. They are weak to melee and magic attacks, making them easy to defeat. They drop blood runes and various rune items, making them valuable for crafting and profit.;}
+
+{//;Blue Dragons} 
+{if;{capitalize;{args}};==;Blue dragons;
+# __**Blue dragon**__
+(Weight: 6): 
+
+> - Location: Taverley 
+> - Bring anti-dragon shield, ranged gear
+> - Key drops: Dragon bones, Blue dragonhide, Rune items
+
+Blue Dragons are found in Taverley Dungeon or the Myths' Guild. They are best fought using ranged or magic with an anti-dragon shield or dragonfire shield for protection. Anti-fire potions are recommended if using melee. While the task can be profitable due to dragon bones and blue dragonhide drops, it is not particularly efficient for Slayer XP. An Expeditious bracelet can be used to shorten the task duration if desired.;}
+
+{//;Blue Dragons} 
+{if;{capitalize;{args}};==;Blue Dragons;
+# __**Blue dragon**__
+(Weight: 6): 
+
+> - Location: Taverley 
+> - Bring anti-dragon shield, ranged gear
+> - Key drops: Dragon bones, Blue dragonhide, Rune items
+
+Blue Dragons are found in Taverley Dungeon or the Myths' Guild. They are best fought using ranged or magic with an anti-dragon shield or dragonfire shield for protection. Anti-fire potions are recommended if using melee. While the task can be profitable due to dragon bones and blue dragonhide drops, it is not particularly efficient for Slayer XP. An Expeditious bracelet can be used to shorten the task duration if desired.;}
+
+{//;Brine Rats} 
+{if;{capitalize;{args}};==;Brine rats;
+# __**Brine rat**__
+(Weight: 5): 
+
+> - Location: Brine Rat Cave
+> - Bring melee gear, food
+> - Key drops: Raw fish, Brine rat tooth
+
+Brine Rats are found in the Brine Rat Cave. They are relatively weak monsters and can be fought easily with melee gear. They drop raw fish and brine rat teeth, which can be used for crafting and potions.;}
+
+{//;Brine Rats} 
+{if;{capitalize;{args}};==;Brine Rats;
+# __**Brine rat**__
+(Weight: 5): 
+
+> - Location: Brine Rat Cave
+> - Bring melee gear, food
+> - Key drops: Raw fish, Brine rat tooth
+
+Brine Rats are found in the Brine Rat Cave. They are relatively weak monsters and can be fought easily with melee gear. They drop raw fish and brine rat teeth, which can be used for crafting and potions.;}
+
+{//;Cave Bugs} 
+{if;{capitalize;{args}};==;Cave bugs;
+# __**Cave bug**__
+(Weight: 1): 
+
+> - Location: Various locations in caves
+> - Bring melee gear
+> - Key drops: Bug meat
+
+Cave Bugs are found in various cave locations. They are low-level monsters that require minimal gear to defeat. They drop bug meat, which can be used for cooking and food.;}
+
+{//;Cave Bugs} 
+{if;{capitalize;{args}};==;Cave Bugs;
+# __**Cave bug**__
+(Weight: 1): 
+
+> - Location: Various locations in caves
+> - Bring melee gear
+> - Key drops: Bug meat
+
+Cave Bugs are found in various cave locations. They are low-level monsters that require minimal gear to defeat. They drop bug meat, which can be used for cooking and food.;}
+
+{//;Cave Crawlers} 
+{if;{capitalize;{args}};==;Cave crawlers;
+# __**Cave crawler**__
+(Weight: 5): 
+
+> - Location: Slayer Cave, Taverley Dungeon
+> - Bring melee gear
+> - Key drops: Various herbs, Cave crawler's claw
+
+Cave Crawlers are found in the Slayer Cave and Taverley Dungeon. They have low hitpoints and are easily defeated with melee gear. They drop various herbs and cave crawler's claws, which can be useful for crafting.;}
+
+{//;Cave Crawlers} 
+{if;{capitalize;{args}};==;Cave Crawlers;
+# __**Cave crawler**__
+(Weight: 5): 
+
+> - Location: Slayer Cave, Taverley Dungeon
+> - Bring melee gear
+> - Key drops: Various herbs, Cave crawler's claw
+
+Cave Crawlers are found in the Slayer Cave and Taverley Dungeon. They have low hitpoints and are easily defeated with melee gear. They drop various herbs and cave crawler's claws, which can be useful for crafting.;}
+
+{//;Cave Horrors} 
+{if;{capitalize;{args}};==;Cave horrors;
+# __**Cave horror**__
+(Weight: 7): 
+
+> - Location: Fremennik Slayer Dungeon
+> - Bring black mask or slayer helm
+> - Key drops: Cave horror's eye, Various herbs
+
+Cave Horrors are located in the Fremennik Slayer Dungeon and require a black mask or a slayer helmet to avoid their terrifying effects. They drop cave horror's eyes, which are used in potion making, along with various herbs.;}
+
+{//;Cave Horrors} 
+{if;{capitalize;{args}};==;Cave Horrors;
+# __**Cave horror**__
+(Weight: 7): 
+
+> - Location: Fremennik Slayer Dungeon
+> - Bring black mask or slayer helm
+> - Key drops: Cave horror's eye, Various herbs
+
+Cave Horrors are located in the Fremennik Slayer Dungeon and require a black mask or a slayer helmet to avoid their terrifying effects. They drop cave horror's eyes, which are used in potion making, along with various herbs.;}
+
+
+{//;Cockatrice} 
+{if;{capitalize;{args}};==;Cockatrice;
+# __**Cockatrice**__
+(Weight: 6): 
+
+> - Location: Fremennik Slayer Dungeon
+> - Bring mirror shield
+> - Key drops: Cockatrice's egg, Rune items
+
+Cockatrices are found in the Fremennik Slayer Dungeon. A mirror shield is necessary to avoid being petrified. They drop cockatrice's eggs, which can be useful for cooking, along with rune items.;}
+
+{//;Crawling Hands} 
+{if;{capitalize;{args}};==;Crawling hands;
+# __**Crawling hand**__
+(Weight: 1): 
+
+> - Location: Various locations
+> - Bring any weapon
+> - Key drops: None notable
+
+Crawling Hands are low-level monsters found in various locations. They are weak and can be defeated with any weapon. Their drops are minimal, making them less profitable for slayer tasks.;}
+
+{//;Crawling Hands} 
+{if;{capitalize;{args}};==;Crawling Hands;
+# __**Crawling hand**__
+(Weight: 1): 
+
+> - Location: Various locations
+> - Bring any weapon
+> - Key drops: None notable
+
+Crawling Hands are low-level monsters found in various locations. They are weak and can be defeated with any weapon. Their drops are minimal, making them less profitable for slayer tasks.;}
+
+
+{//;Dagannoths} 
+{if;{capitalize;{args}};==;Dagannoths;
+# __**Dagannoth**__
+(Weight: 7): 
+
+> - Location: Waterbirth Island
+> - Bring ranged gear or high melee
+> - Key drops: Dagannoth bones, Various rune items
+
+Dagannoths are primarily found on Waterbirth Island and are best fought with ranged gear or high-level melee. They drop dagannoth bones and various rune items, making them a valuable slayer task.;}
+
+
+{//;Drake} 
+{if;{capitalize;{args}};==;Drake;
+# __**Drake**__
+(Weight: 5): 
+
+> - Location: Karuulm Slayer Dungeon
+> - Bring anti-fire gear if using melee
+> - Key drops: Drake's tooth, Rune items
+
+Drakes are found in the Karuulm Slayer Dungeon and are weak to ranged and magic attacks. They drop drake's teeth, which are useful for crafting, along with various rune items.;}
+
+
+{//;Dwarves} 
+{if;{capitalize;{args}};==;Dwarves;
+# __**Dwarf**__
+(Weight: 4): 
+
+> - Location: Various locations
+> - Bring melee gear
+> - Key drops: Rune items
+
+Dwarves are common monsters found in various locations throughout Gielinor. They are relatively weak and can be defeated easily with melee gear. They drop various rune items and are often hunted for profit.;}
+
+{//;Dust Devils} 
+{if;{capitalize;{args}};==;Dust devils;
+# __**Dust devil**__
+(Weight: 5): 
+
+> - Location: Catacombs of Kourend, Smoke Dungeon
+> - Bring prayer gear or ranged
+> - Key drops: Dust devil's drop, Rune items
+
+Dust Devils are found in the Catacombs of Kourend and Smoke Dungeon. They require protection from their attacks using prayer gear or ranged gear. Their drops include dust devil's drops and various rune items, making them a good task for profit.;}
+
+{//;Dust Devils} 
+{if;{capitalize;{args}};==;Dust Devils;
+# __**Dust devil**__
+(Weight: 5): 
+
+> - Location: Catacombs of Kourend, Smoke Dungeon
+> - Bring prayer gear or ranged
+> - Key drops: Dust devil's drop, Rune items
+
+Dust Devils are found in the Catacombs of Kourend and Smoke Dungeon. They require protection from their attacks using prayer gear or ranged gear. Their drops include dust devil's drops and various rune items, making them a good task for profit.;}
+
+{//;Earth Warriors} 
+{if;{capitalize;{args}};==;Earth warriors;
+# __**Earth warrior**__
+(Weight: 4): 
+
+> - Location: Varrock Sewer, Edgeville Dungeon
+> - Bring melee gear
+> - Key drops: Rune items, Earth talismans
+
+Earth Warriors are located in various caves and dungeons. They are relatively easy to defeat and can be killed with melee gear. They drop rune items and earth talismans, making them a viable option for slayer tasks.;}
+
+{//;Earth Warriors} 
+{if;{capitalize;{args}};==;Earth Warriors;
+# __**Earth warrior**__
+(Weight: 4): 
+
+> - Location: Varrock Sewer, Edgeville Dungeon
+> - Bring melee gear
+> - Key drops: Rune items, Earth talismans
+
+Earth Warriors are located in various caves and dungeons. They are relatively easy to defeat and can be killed with melee gear. They drop rune items and earth talismans, making them a viable option for slayer tasks.;}
+
+{//;Fire Giants} 
+{if;{capitalize;{args}};==;Fire giants;
+# __**Fire giant**__
+(Weight: 6): 
+
+> - Location: Varrock Sewer, Waterfall Dungeon
+> - Bring ranged or melee gear
+> - Key drops: Rune items, Fire giant bones
+
+Fire Giants are found in the Varrock Sewer and Waterfall Dungeon. They can be fought with either ranged or melee gear. They drop rune items and fire giant bones, making them a profitable slayer task.;}
+
+{//;Fire Giants} 
+{if;{capitalize;{args}};==;Fire Giants;
+# __**Fire giant**__
+(Weight: 6): 
+
+> - Location: Varrock Sewer, Waterfall Dungeon
+> - Bring ranged or melee gear
+> - Key drops: Rune items, Fire giant bones
+
+Fire Giants are found in the Varrock Sewer and Waterfall Dungeon. They can be fought with either ranged or melee gear. They drop rune items and fire giant bones, making them a profitable slayer task.;}
+
+
+{//;Gargoyles} 
+{if;{capitalize;{args}};==;Gargoyles;
+# __**Gargoyle**__
+(Weight: 5): 
+
+> - Location: Slayer Tower
+> - Bring melee gear and hammer
+> - Key drops: Gargoyle's tail, Rune items
+
+Gargoyles are found in the Slayer Tower and require a hammer to defeat. They drop gargoyle's tails and various rune items, making them a valuable target for slayers.;}
+
+{//;Greater Demons} 
+{if;{capitalize;{args}};==;Greater Demons;
+# __**Greater demon**__
+(Weight: 7): 
+
+> - Location: Various locations
+> - Bring melee or ranged gear
+> - Key drops: Rune items, Greater demon bones
+
+Greater Demons can be found in various locations. They are strong monsters that can be fought with melee or ranged gear. They drop rune items and greater demon bones, making them a worthwhile slayer task.;}
+
+{//;Greater Demons} 
+{if;{capitalize;{args}};==;Greater demons;
+# __**Greater demon**__
+(Weight: 7): 
+
+> - Location: Various locations
+> - Bring melee or ranged gear
+> - Key drops: Rune items, Greater demon bones
+
+Greater Demons can be found in various locations. They are strong monsters that can be fought with melee or ranged gear. They drop rune items and greater demon bones, making them a worthwhile slayer task.;}
+
+
+{//;Hellhounds} 
+{if;{capitalize;{args}};==;Hellhounds;
+# __**Hellhound**__
+(Weight: 6): 
+
+> - Location: Various locations
+> - Bring prayer gear
+> - Key drops: Hellhound bones, Various rune items
+
+Hellhounds are found in various locations throughout Gielinor. They can deal high damage, so bringing prayer gear is recommended. They drop hellhound bones and various rune items, making them a valuable slayer target.;}
+
+
+{//;Hydras} 
+{if;{capitalize;{args}};==;Hydra;
+# __**Hydra**__
+(Weight: 8): 
+
+> - Location: Karuulm Slayer Dungeon
+> - Bring anti-fire gear
+> - Key drops: Hydra bones, Various rune items
+
+Hydras are located in the Karuulm Slayer Dungeon. They are powerful monsters that require anti-fire gear to fight effectively. They drop hydra bones and various rune items, making them a high-value target for slayers.;}
+
+
+{//;Kalphites} 
+{if;{capitalize;{args}};==;Kalphites;
+# __**Kalphite**__
+(Weight: 6): 
+
+> - Location: Kalphite Cave
+> - Bring melee or ranged gear
+> - Key drops: Kalphite queen's drop, Various rune items
+
+Kalphites can be found in the Kalphite Cave. They are best fought with either melee or ranged gear. Their drops include valuable items like the Kalphite queen's drops and various rune items.;}
+
+
+{//;Kurasks} 
+{if;{capitalize;{args}};==;Kurasks;
+# __**Kurask**__
+(Weight: 7): 
+
+> - Location: Fremennik Slayer Dungeon
+> - Bring melee gear and food
+> - Key drops: Kurask's head, Various rune items
+
+Kurasks are found in the Fremennik Slayer Dungeon and require melee gear to defeat. They drop Kurask's head and various rune items, making them a profitable target for slayers.;}
+
+
+{//;Skeletal Wyverns} 
+{if;{capitalize;{args}};==;Skeletal wyverns;
+# __**Skeletal wyvern**__
+(Weight: 6): 
+
+> - Location: Asgarnian Ice Dungeon
+> - Bring anti-fire gear
+> - Key drops: Skeletal wyvern bones, Rune items
+
+Skeletal Wyverns are located in the Asgarnian Ice Dungeon. They require anti-fire gear to fight effectively. They drop skeletal wyvern bones and various rune items, making them a valuable target for slayers.;}
+
+
+{//;Skeletal Wyverns} 
+{if;{capitalize;{args}};==;Skeletal Wyverns;
+# __**Skeletal wyvern**__
+(Weight: 6): 
+
+> - Location: Asgarnian Ice Dungeon
+> - Bring anti-fire gear
+> - Key drops: Skeletal wyvern bones, Rune items
+
+Skeletal Wyverns are located in the Asgarnian Ice Dungeon. They require anti-fire gear to fight effectively. They drop skeletal wyvern bones and various rune items, making them a valuable target for slayers.;}
+
+
+{//;Steel Dragons} 
+{if;{capitalize;{args}};==;Steel dragons;
+# __**Steel dragon**__
+(Weight: 9): 
+
+> - Location: Various locations
+> - Bring anti-dragon shield and melee gear
+> - Key drops: Dragon bones, Rune items
+
+Steel Dragons are powerful monsters found in various locations. They require an anti-dragon shield and melee gear to fight effectively. They drop dragon bones and various rune items, making them a top choice for slayers.;}
+
+
+{//;Steel Dragons} 
+{if;{capitalize;{args}};==;Steel Dragons;
+# __**Steel dragon**__
+(Weight: 9): 
+
+> - Location: Various locations
+> - Bring anti-dragon shield and melee gear
+> - Key drops: Dragon bones, Rune items
+
+Steel Dragons are powerful monsters found in various locations. They require an anti-dragon shield and melee gear to fight effectively. They drop dragon bones and various rune items, making them a top choice for slayers.;}
+
+
+{//;Suqahs} 
+{if;{capitalize;{args}};==;Suqahs;
+# __**Suqah**__
+(Weight: 6): 
+
+> - Location: The Acheron
+> - Bring melee gear and food
+> - Key drops: Suqah fur, Various rune items
+
+Suqahs can be found in the Acheron region. They are best fought with melee gear and food. They drop Suqah fur and various rune items, providing a good profit for slayers.;}
+
+
+{//;Trolls} 
+{if;{capitalize;{args}};==;Trolls;
+# __**Troll**__
+(Weight: 5): 
+
+> - Location: Trollheim
+> - Bring melee gear
+> - Key drops: Troll bones, Various rune items
+
+Trolls are found in Trollheim and surrounding areas. They can be defeated easily with melee gear. They drop troll bones and various rune items, making them a good target for slayers.;}
+
+
+{//;Wyrms} 
+{if;{capitalize;{args}};==;Wyrms;
+# __**Wyrm**__
+(Weight: 7): 
+
+> - Location: Karuulm Slayer Dungeon
+> - Bring anti-fire gear
+> - Key drops: Wyrm bones, Various rune items
+
+Wyrms are located in the Karuulm Slayer Dungeon. They require anti-fire gear to fight effectively. They drop wyrm bones and various rune items, making them a lucrative option for slayers.;}
